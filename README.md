@@ -13,17 +13,6 @@ GeminiSpark is an AI-powered chatbot built using Streamlit, Google Gemini Pro, L
 - 🎨 Customizable UI with enhanced CSS styling
 - 📝 Downloadable chat history
 
-
-
-
-
-
-
-
-
-
-
-
 ## 🔧 Prerequisites
 
 Ensure you have the following installed:
